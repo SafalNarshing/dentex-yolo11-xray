@@ -11,11 +11,13 @@
 [![WandB](https://img.shields.io/badge/Tracking-Weights%20%26%20Biases-orange?logo=weightsandbiases)](https://wandb.ai)
 [![Kaggle](https://img.shields.io/badge/Trained%20on-Kaggle%20GPU-20BEFF?logo=kaggle)](https://kaggle.com)
 
-<br/>
+Kaggle Notebook URL: [Click Here](https://www.kaggle.com/code/safalnarshing/annotation-model)
 
+<br/>
 <img src="https://github.com/SafalNarshing/dentex-yolo11-xray/blob/f6f347a8f4161d4e135d8f1939362b53e5d2a8bc/outputs/images/result_1.png" alt="Dental disease detection result on panoramic X-ray" width="860"/>
 
 *YOLO11n-seg detecting Caries, Deep Caries, Periapical Lesions and Impacted Teeth on a panoramic dental X-ray*
+
 
 </div>
 
